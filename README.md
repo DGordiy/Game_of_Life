@@ -1,3 +1,4 @@
 # Game_of_Life
 
-This is console application for modeling the life of bacteries in closed space.
+This is a model of bacteries' life in a closed space.
+This application uses Swing GUI.
